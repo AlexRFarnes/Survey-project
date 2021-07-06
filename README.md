@@ -1,6 +1,6 @@
 # Survey project
 
-> A template for a multi-step survey with Bootstrap 5.
+> A a multi-step survey made with Bootstrap 5.
 
 ## Table of contents
 
@@ -14,7 +14,7 @@
 
 ## General info
 
-A template for a multi-step survey made with Bootstrap 5 to practice using its classes, components, and to get used to read technical documentation. Project focused on tab component for the multi-step, as well as different input types like radio, range, etc., and form styling with the Bootstrap grid system. 
+A a multi-step survey made with Bootstrap 5 to practice using its classes, components, and to get used to read technical documentation. Project focused on tab component for the multi-step, as well as different input types like radio, range, etc., and form styling with the Bootstrap grid system. 
 
 ## Screenshots
 
